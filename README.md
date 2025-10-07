@@ -1,18 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Srđan 👋</h1>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/djanii?tab=followers">
-    <img src="https://img.shields.io/github/followers/djanii?label=Followers&style=flat-square" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/djanii">
-    <img src="https://komarev.com/ghpvc/?username=djanii&style=flat-square&color=blue" alt="Profile views" />
-  </a>
-</p>
-
----
-
 ### 🧠 Languages & Tools
 
 <p align="center">

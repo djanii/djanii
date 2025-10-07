@@ -16,7 +16,7 @@
 ### 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,nextjs,typescript,javascript,html,css,tailwind,postgres,nodejs,express,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flask,react,nextjs,typescript,javascript,html,css,tailwind,postgres,nodejs,express" />
 </p>
 
 ---

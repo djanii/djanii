@@ -1,6 +1,8 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Srđan 👋</h1>
 
+---
+
 ### 🧠 Languages & Tools
 
 <p align="center">

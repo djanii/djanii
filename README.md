@@ -3,11 +3,11 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/srdjan123?tab=followers">
-    <img src="https://img.shields.io/github/followers/srdjan123?label=Followers&style=flat-square" alt="GitHub followers" />
+  <a href="https://github.com/djanii?tab=followers">
+    <img src="https://img.shields.io/github/followers/djanii?label=Followers&style=flat-square" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/srdjan123">
-    <img src="https://komarev.com/ghpvc/?username=srdjan123&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://github.com/djanii">
+    <img src="https://komarev.com/ghpvc/?username=djanii&style=flat-square&color=blue" alt="Profile views" />
   </a>
 </p>
 
